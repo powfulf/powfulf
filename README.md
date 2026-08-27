@@ -2,7 +2,7 @@
 
 ### About Me
 
-Computer Science Student.
+Im Gaffa, Computer Science Student.
 
 Im 19y.o. Im very passionate about competitive programming. Working as an software developer, infrastructure engineer, and doing a lot of system design work as well. I have been seriously learning and gaining experience in software engineering since 2022.
 
@@ -18,7 +18,7 @@ Im 19y.o. Im very passionate about competitive programming. Working as an softwa
 
 ## Recent Projects
 - [volteramc.net](https://volteramc.net) - Built using Golang and TypeScript. Integrated with the Midtrans payment gateway.
-- [Nusa](https://github.com/GaffaQ/Nusa) - Self-hosted personal finance app, Built using Golang.
+- [Nusa](https://github.com/powfulf/Nusa) - Self-hosted personal finance app, Built using Golang.
 
 ### Contact Me
 - Discord: gaffaaq
