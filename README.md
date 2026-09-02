@@ -16,9 +16,10 @@ Im 19y.o. Im very passionate about competitive programming. Working as an softwa
 - **JetBrains**: I use JetBrains products for my development. I use [GoLand](https://www.jetbrains.com/go/), [PhpStorm](https://www.jetbrains.com/phpstorm/), [IntelliJ](https://www.jetbrains.com/idea/), and [WebStorm](https://www.jetbrains.com/webstorm/).
 - **ReactJS**: Used to build frontend dashboards and internal tools that interact with REST from my backend services.
 
-## Recent Projects
+## Works
 - [volteramc.net](https://volteramc.net) - Built using Golang and TypeScript. Integrated with the Midtrans payment gateway.
 - [Nusa](https://github.com/powfulf/Nusa) - Self-hosted personal finance app, Built using Golang.
+- [Synergy of Symphoni](https://sos.ub.ac.id/home) - Departement Oriented Student in FILKOM UB, built using Golang.
 
 ### Contact Me
 - Discord: gaffaaq
