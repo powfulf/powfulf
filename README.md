@@ -24,6 +24,7 @@ Im 19y.o. Im very passionate about competitive programming. Working as an softwa
 ### Contact Me
 - Discord: gaffaaq
 - Email: gaffa@volteramc.net
+- Codeforces: [cheviazt](https://codeforces.com/profile/cheviazt)
 - Linkedin: [www.linkedin.com/in/gaffa-fadhlanul-rozaq/](https://www.linkedin.com/in/gaffa-fadhlanul-rozaq/)
 
 ### Donate
