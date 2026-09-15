@@ -18,7 +18,7 @@ Im 19y.o. Im very passionate about competitive programming. Working as an softwa
 
 ## Works
 - [VolteraMC](https://volteramc.net) - Built using Golang and TypeScript. Integrated with the Midtrans payment gateway.
-- [Nusa](https://github.com/powfulf/Nusa) - Self-hosted personal finance app, Built using Golang.
+- [TownNPC](https://github.com/powfulf/TownNPC) - Lightweight Packet-based patrolling NPC with waypoint paths, Mojang skins, and zero server-side entities.
 - [Synergy of Symphoni](https://sos.ub.ac.id/home) - Departement Oriented Student in FILKOM UB, built using Golang.
 
 ### Contact Me
